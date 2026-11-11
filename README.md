@@ -117,3 +117,15 @@ Third-party libraries, fonts, artwork, and other assets may be subject to their 
 BitChord Desktop — Revived is an **unofficial, independent community project**. It is not maintained, sponsored, or endorsed by the original BitChord developers or other referenced community forks.
 
 This project is not affiliated with or endorsed by **YouTube, Google, Spotify, Apple**, or their respective subsidiaries. All trademarks and service names belong to their respective owners.
+
+---
+
+## Credits & License — ChordWave Desktop
+
+**ChordWave Desktop** is a modified derivative of **BitChord Desktop — Revived** by
+[@Bntagaaa](https://github.com/Bntagaaa), which is itself based on the original
+**BitChord** by [@kushagrasinghx](https://github.com/kushagrasinghx). It is developed
+by Riki Nurjaman ([@Rikki53](https://github.com/Rikki53)) under the **GNU General
+Public License v3.0**; the full license text is in the `LICENSE` file, and full
+attribution is in `NOTICE.md`. The upstream commit history is preserved in this
+repository.
